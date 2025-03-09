@@ -8,9 +8,9 @@
 
 //Вершины треугольника
 float pointer[] = {
-    0.0f, 0.5f, 0.0f,
-    -0.5f, -0.5f, 0.0f,
-    0.5f, -0.5f, 0.0f
+    0.0, 0.5, 0.0,
+    -0.5, -0.5, 0.0,
+    0.5, -0.5, 0.0
 };
 
 //Индексы вершин треугольника
@@ -71,7 +71,7 @@ int main() {
 
     //Основной цикл
     while (!glfwWindowShouldClose(window)) {
-        glClearColor(0.2f, 0.3f, 0.4f, 0.0f);
+        glClearColor(0.2, 0.3, 0.4, 0.0);
         glClear(GL_COLOR_BUFFER_BIT);
 
         float timeValue = glfwGetTime();

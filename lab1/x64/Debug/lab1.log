@@ -1,3 +1,6 @@
 ﻿  lab1.cpp
+C:\Users\Rayphias\Desktop\TriangleVar2Lab2-main\lab1\lab1.cpp(74,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Rayphias\Desktop\TriangleVar2Lab2-main\lab1\lab1.cpp(74,27): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Rayphias\Desktop\TriangleVar2Lab2-main\lab1\lab1.cpp(74,22): warning C4305: аргумент: усечение из "double" в "GLclampf"
 C:\Users\Rayphias\Desktop\TriangleVar2Lab2-main\lab1\lab1.cpp(77,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   lab1.vcxproj -> C:\Users\Rayphias\Desktop\TriangleVar2Lab2-main\x64\Debug\lab1.exe
